@@ -1,4 +1,4 @@
-# Playwright Automation Tests 🚀
+# Playwright Automation Tests
 
 This repository contains **Playwright** automated tests for practicing UI testing on public websites like `the-internet.herokuapp.com` and `example.com`.  
 
@@ -69,3 +69,7 @@ npx playwright show-report
 github/workflows/playwright.yml
 
 This workflow will run your tests automatically on GitHub. 
+
+# How to test locally
+npx playwright test tests/login-the-internet.spec
+<img width="558" height="195" alt="image" src="https://github.com/user-attachments/assets/92b5aef6-c635-4bf8-a546-438ced6f5f03" />
