@@ -35,6 +35,7 @@ git clone https://github.com/kirti/playwright.git
 cd playwright
 
 # Install dependencies:
+
 - npm install
 
 # Install Playwright browsers:
