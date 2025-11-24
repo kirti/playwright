@@ -1,8 +1,6 @@
-# Playwright Automation Tests
+# Playwright UI Automation Suite
 
 This repository contains **Playwright** automated tests for practicing UI testing on public websites like `the-internet.herokuapp.com` and `example.com`.  
-
-# Playwright UI Automation Suite 🚀
 
 This repository contains automated **UI & E2E tests** built with **Playwright**. 
 It covers sample websites like [the-internet.herokuapp.com](https://the-internet.herokuapp.com/), 
