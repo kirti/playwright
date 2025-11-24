@@ -18,7 +18,7 @@ Perfect for QA engineers, developers, and automation enthusiasts learning
 - [Installation](#installation)
 - [Running Tests](#running-tests)
 - [HTML Reports](#html-reports)
-- [Run tests and generate report](#run-tests-and-generate report)
+- [Run tests and generate report](#run-tests-and-generate-report)
 - [Continuous Integration](#continuous-integration)
 
 ---
